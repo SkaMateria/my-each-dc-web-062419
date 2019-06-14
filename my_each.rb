@@ -10,3 +10,4 @@ def my_each(collection)
   collection
 end
 end
+my_each
